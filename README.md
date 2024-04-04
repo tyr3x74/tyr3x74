@@ -4,4 +4,3 @@
 ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyr3x74&theme=dark&hide=css,html)
-- 📫 Reach me via [twitter](https://twitter.com/Tyr3x5/) or [facebook](https://www.facebook.com/idabagusyudha.idabagusyudha/)
